@@ -87,3 +87,4 @@ Aby serwery działały w tle i uruchamiały się razem z komputerem, użyj PM2:
 
 ---
 **Uwaga:** Ponieważ rozszerzenie Firefox jest ładowane w trybie deweloperskim, przeglądarka zapomni o nim po jej zamknięciu lub po restarcie komputera. Musisz je załadować ponownie w zakładce `about:debugging`. Serwery PM2 uruchomią się automatycznie.
+**Uwaga:** README zostało wygenerowane przez model językowy
