@@ -1,0 +1,19 @@
+# Zależności Node.js (To najważniejsza linijka!)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logi (jeśli kiedyś dodasz zapisywanie błędów do plików)
+logs/
+*.log
+
+# Pliki systemowe (Dobre praktyki, żeby nie śmiecić u kogoś z innym systemem)
+.DS_Store
+Thumbs.db
+
+# Ustawienia edytorów kodu (np. VS Code czy WebStorm)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
